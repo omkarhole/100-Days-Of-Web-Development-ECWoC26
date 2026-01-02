@@ -7,7 +7,7 @@
 ![JavaScript](https://img.shields.io/badge/JavaScript-yellow?style=for-the-badge&logo=javascript)
 ![GitHub Repo Size](https://img.shields.io/github/repo-size/Shubham-cyber-prog/100-Days-Of-Web-Development?style=for-the-badge)
 ![GitHub Stars](https://img.shields.io/github/stars/Shubham-cyber-prog/100-Days-Of-Web-Development?style=for-the-badge)
-
+https://discord.gg/SW7puwEm
 ---
 
 ## 📌 About This Repository
